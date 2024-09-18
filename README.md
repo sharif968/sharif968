@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharif968
 - 👀 I’m interested in software development-
-- 🌱 I’m currently learning Flutter 
-- 💞️ I’m looking to collaborate on flutter teams
+- 🌱 I’m currently learning React js 
+- 💞️ I’m looking to collaborate on React Js teams
 - 📫  to reach me +8801826098968
 
 <!---
